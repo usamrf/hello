@@ -3,3 +3,6 @@ for n in range(10):
 
 for n in range(20):
     print(n)
+
+for n in range(3):
+    print(n)
